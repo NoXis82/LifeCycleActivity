@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LifeCycleActivity</string>
+    <string name="text_activity">Логирование жизненного цикла активити:</string>
+    <string name="btn_new_activity">New Activity</string>
+    <string name="second_activity">SecondActivity</string>
+</resources>
